@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>algorithm tests</title>
+  <link rel="stylesheet" href="mocha.css" />
+  <script src="./mocha.js"></script>
+  <script src="./expect.js"></script>
+  <script src="../lib/monkeyKing.js"></script>
+  <script src="../lib/prime.js"></script>
+  <script>
+    mocha.setup('bdd')
+  </script>
+  <script src="../test/test.monkey-king.js"></script>
+  <script src="../test/test.prime.js"></script>
+  <script>
+    window.onload = function() {
+      var runner = mocha.run();
+    };
+  </script>
+</head>
+<body>
+  <div id="mocha"></div>
+</body>
+</html>

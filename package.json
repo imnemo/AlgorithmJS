@@ -1,0 +1,19 @@
+{
+  "author": "sunshine1988 <291400733@qq.com> (www.inodejs.net)",
+  "name": "algorithm.js",
+  "description": "using js to achieve some algorithms",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+	"mocha": ">=0.3.x",
+	"expect.js": ">=0.1.x",
+	"should": ">=0.6.x"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
