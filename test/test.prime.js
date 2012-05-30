@@ -1,10 +1,8 @@
 if(process.argv){
 	var algo = require('./../lib/prime'),
-	expect = require('expect.js');
+	expect = require('chai').expect;
 }
-else{
-	var algo = Algorithm;
-}
+
 describe('Prime', function(){
 	var isPrime = algo.isPrime,
 		np= algo.nextPrime;

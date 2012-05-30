@@ -1,14 +1,21 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
   <meta charset="utf-8">
   <title>algorithm tests</title>
   <link rel="stylesheet" href="mocha.css" />
   <script src="./mocha.js"></script>
-  <script src="./expect.js"></script>
+  <script src="./chai.js"></script>
+  <script>
+	//纯是为了让浏览器中执行node module不报错，没有下面的处理也不会影响test代码执行
+	var module = module || {},
+		exports = module.exports = module.exports || {};
+  </script>
   <script src="../lib/monkeyKing.js"></script>
   <script src="../lib/prime.js"></script>
   <script>
+	var algo = Algorithm,
+		expect = chai.expect;
     mocha.setup('bdd')
   </script>
   <script src="../test/test.monkey-king.js"></script>
