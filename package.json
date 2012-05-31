@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {
 	"mocha": ">=0.3.x",
-	"chai": ">=1.0.3",
+	"chai": ">=1.0.3"
   },
   "optionalDependencies": {},
   "engines": {
