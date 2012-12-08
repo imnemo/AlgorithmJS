@@ -2,14 +2,14 @@
   "author": "sunshine1988 <291400733@qq.com> (www.inodejs.net)",
   "name": "algorithm.js",
   "description": "using js to achieve some algorithms",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "scripts": {
     "test": "mocha --reporter spec"
   },
   "dependencies": {},
   "devDependencies": {
-	"mocha": ">=0.3.x",
-	"chai": ">=1.0.3"
+    "mocha": ">=0.3.x",
+    "chai": ">=1.0.3"
   },
   "optionalDependencies": {},
   "engines": {
