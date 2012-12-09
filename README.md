@@ -1,6 +1,8 @@
 AlgorithmJS
 ==
 
+[![build status](https://secure.travis-ci.org/sunshine1988/AlgorithmJS.png)](http://travis-ci.org/sunshine1988/AlgorithmJS)  
+
 Implement some algorithm using javascript
 
 Use && Dev
