@@ -15,7 +15,7 @@ Fork or clone to your local ENV
 
 To add new algorithm script, please use the code template `lib/algorithm.tpl.js`  
 
-Add your test script to the folder `test`, use `test.` for the prefix when naming your script. This is for Node. As to testing in browser, just include your test script in `test_in_browser/index.html`. You know how to make it work.
+Add your test script to the folder `test`, use `test.` for the prefix when naming your script. This is for Node. As to testing in browser, just include your test script in `test_in_browser/index.html`. You know how to make it to work.
 
 Test
 ==
