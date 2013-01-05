@@ -2,7 +2,7 @@
   "author": "sunshine1988 <291400733@qq.com> (www.inodejs.net)",
   "name": "algorithm.js",
   "description": "using js to achieve some algorithms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "test": "mocha --reporter spec"
   },
