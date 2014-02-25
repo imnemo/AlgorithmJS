@@ -33,3 +33,7 @@ Todo
 
 Welcome to fork the project and pull your request!
 ==
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sunshine1988/algorithmjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
