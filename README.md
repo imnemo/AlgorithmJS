@@ -1,7 +1,7 @@
 AlgorithmJS
 ==
 
-[![build status](https://secure.travis-ci.org/sunshine1988/AlgorithmJS.png)](http://travis-ci.org/sunshine1988/AlgorithmJS)  
+[![build status](https://secure.travis-ci.org/imnemo/AlgorithmJS.png)](http://travis-ci.org/imnemo/AlgorithmJS)  
 
 Implement some algorithm using javascript
 
@@ -9,7 +9,7 @@ Use && Dev
 ==
 Fork or clone to your local ENV
     
-    git clone https://github.com/sunshine1988/AlgorithmJS.git  
+    git clone https://github.com/imnemo/AlgorithmJS.git  
     cd AlgorithmJS  
     npm install ./
 
@@ -35,5 +35,5 @@ Welcome to fork the project and pull your request!
 ==
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sunshine1988/algorithmjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/imnemo/algorithmjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
