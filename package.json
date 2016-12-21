@@ -1,5 +1,5 @@
 {
-  "author": "sunshine1988 <291400733@qq.com> (www.inodejs.net)",
+  "author": "imnemo <291400733@qq.com> (www.oncoding.me)",
   "name": "algorithm.js",
   "description": "using js to achieve some algorithms",
   "version": "0.1.2",
@@ -8,11 +8,11 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "mocha": ">=0.3.x",
-    "chai": ">=1.0.3"
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
   },
   "optionalDependencies": {},
   "engines": {
-    "node": "*"
+    "node": "^4"
   }
 }
